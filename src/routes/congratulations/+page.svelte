@@ -1,0 +1,1 @@
+<div class="flex justify-center w-full h-full text-[300px] text-white font-bold"><h1>정💯답</h1></div>
